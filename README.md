@@ -25,3 +25,14 @@ In the event you have any questions or comments, please feel free to reach me on
 Im also open to assistance making samples sound better, or having people contribute samples, under the rules that they are 
 compressed to not drastically increase file size of the pack, are Free Use with no restrictions not already outlined, and 
 are something someone would commonly use. (yes this means no meme samples. this may change in the future depending on demand)
+
+# KNOWN ISSUES
+- lower end samples lag slightly behind regular pitched notes
+    This is known, but i currently only have a theory on how to fix it, but it also could mess up every sample, and no major 
+    means of executing it due to my lack of experience in audio production and editing tools like audacity
+- Some samples are really faded / quiet
+    this is partly related to the best fix of the above issue without obliterating everything, again, i know how to fix this issue,
+    the issue is fixing it without manualy editing every individual sample from source. the easier option would genuinly just
+    re recording all samples, with actual samples for low and high notes instead of pitch shifted versions
+
+again, if you have even jank but working fixes for either of these, it would be greatly appreciated
