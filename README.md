@@ -1,5 +1,5 @@
 # NBSMidi
-A Set of files to allow OpenNBS player to act more like a Midi Player, with a pack for minecraft as well
+A Set of 355 Samples to allow OpenNBS player to act more like a Midi Player, with a pack for minecraft as well
 
 Developed primarally for use on https://github.com/Legacy-Edition-Minigames
 Midi Keyboard used is a Yamaha YPT-240, with 355 current samples.
